@@ -4,7 +4,7 @@
 
 <?php
     require 'recaptchalib.php';
-    $secret = "6LdxkEkUAAAAALbgbi0jcbZBRGIFkNIL57ybSKto";
+    $secret = "MY-SECRET";
     /*Front Page gabarit */
     //Appel au gabarit de l'entête
     get_header();
